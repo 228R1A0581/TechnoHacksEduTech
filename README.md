@@ -1,2 +1,2 @@
-<h1> Technohacks-Edu-Tech </h1>
-internship(web development)
+here we did a reponsive land page for products 
+such as watches with its different features 
